@@ -1,2 +1,2 @@
-#!binbash
-python3 bot_giao_van.py
+#!/bin/bash
+python bot_giao_van.py
