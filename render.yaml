@@ -4,4 +4,4 @@ services:
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
-    startCommand: bash start.sh
+    startCommand: python bot_giao_van.py
